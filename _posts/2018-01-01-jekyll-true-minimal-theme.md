@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll true minimal theme"
+title:  "this is a new article"
 date:   2018-01-01 23:22:40 +0300
 ---
 
@@ -9,13 +9,13 @@ True minimal theme is extremely lightweight and ascetic jekyll theme.
 This theme has only one css file, which is used for source code highlighting. 
 
 
-# Heading 1
+# Heading 1 this is heading 1
 ## Heading 2
 ### Heading 3
 
 List of entries:
 
-- item 1
+- item 1 this is item 1
 - item 2
 - item 3
 - item 4
